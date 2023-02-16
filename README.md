@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzihklearn&show_icons=true&theme=gruvbox)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tzihklearn&theme=dark&layout=compact)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tzihklearn&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tzihklearn&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
