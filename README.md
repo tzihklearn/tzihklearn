@@ -25,10 +25,11 @@
 
 ## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
 <p align="center">
-![Metrics](https://metrics.lecoq.io/tzihklearn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
 </p>
+
 <p align="center">
- 
+ ![Metrics](https://metrics.lecoq.io/tzihklearn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 <a href="https://github.com/tzihklearn">
   <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api?username=tzihklearn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api/top-langs/?username=tzihklearn&layout=compact&langs_count=8&theme=dark"/>
