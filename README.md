@@ -4,7 +4,7 @@
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishek-00&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tzihklearn&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-00" /> </p>
 
 
 
@@ -19,6 +19,22 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<br/>
+<hr/>
+
+## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
+
+<p align="center">
+<a href="https://github.com/Abhishek-00">
+  <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api?username=tzihklearn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api/top-langs/?username=tzihklearn&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
+
+<p align="center">
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-00&theme=dark&hide_border=false"/>
+</p>
 
 <br/>
 <hr/>
