@@ -26,6 +26,8 @@
 ## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
 
 <p align="center">
+  
+![Metrics](https://metrics.lecoq.io/tzihklearn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 <a href="https://github.com/tzihklearn">
   <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api?username=tzihklearn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api/top-langs/?username=tzihklearn&layout=compact&langs_count=8&theme=dark"/>
@@ -53,13 +55,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzihklearn&show_icons=true&theme=gruvbox)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tzihklearn&theme=dark&layout=compact)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tzihklearn&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Metrics](https://metrics.lecoq.io/tzihklearn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzihklearn&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzihklearn" /> </div>
