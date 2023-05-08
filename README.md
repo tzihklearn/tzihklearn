@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-00&theme=dark&hide_border=false"/>
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=tzihklearn&theme=dark&hide_border=false"/>
 </p>
 
 <br/>
